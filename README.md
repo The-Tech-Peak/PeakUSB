@@ -12,4 +12,4 @@ features, such as:
 -Persistent Partition Creation
 and more.
 
-Keep in mind that this is an OPEN BETA. Some features may not function.
+PeakUSB is currently in its early stages, and may not fully function. Report any bugs.
