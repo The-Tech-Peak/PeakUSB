@@ -13,3 +13,5 @@ features, such as:
 and more.
 
 PeakUSB is currently in its early stages, and may not fully function. Report any bugs.
+
+If you would like to become a contributor, feel free to put that in the bugs page (not giving you my personal email ;])
