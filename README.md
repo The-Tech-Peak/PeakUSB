@@ -1,5 +1,5 @@
 # PeakUSB
-A bootable USB creation tool. Fully open-source.
+The feature-packed, fully open-source bootable USB creation tool.
 
 ![Static Badge](https://img.shields.io/badge/Development-Active-green) ![Static Badge](https://img.shields.io/badge/GNU_GPL_v3.0_License-gray)
 
