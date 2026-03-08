@@ -14,6 +14,8 @@ features, such as:
 -Persistent Partition Creation
 and more.
 
+You can format drives to NTFS, FAT32, and exFAT. You can also rename the drive.
+
 PeakUSB is currently in its early stages, and may not fully function. Report any bugs.
 
 If you would like to become a contributor, feel free to put that in the bugs page (not giving you my personal email ;])
